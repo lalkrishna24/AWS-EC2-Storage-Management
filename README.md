@@ -284,21 +284,21 @@ aws-ec2-storage-management/
 ### 🐧 Linux EC2 – `lsblk` Output (Amazon Linux 2023)
 > Connected via EC2 Instance Connect | Instance: `i-0cb1bda002efc72ac` | IP: `172.31.35.13`
 
-![Linux EC2 lsblk output](screenshots/linux_lsblk_output.jpeg)
+![Linux EC2 lsblk output](https://github.com/lalkrishna24/AWS-EC2-Storage-Management/blob/fb420ff783be4936c7bbe936be595a428e8748d8/1770139756200.jpeg)
 
 ---
 
 ### 🪟 Windows EC2 – This PC (C: & D: Drives)
 > After attaching and initializing a new EBS volume as `D:` | Hostname: `EC2AMAZ-DVCB0UD`
 
-![Windows EC2 This PC drives](screenshots/windows_this_pc_drives.jpeg)
+![Windows EC2 This PC drives](https://github.com/lalkrishna24/AWS-EC2-Storage-Management/blob/fb420ff783be4936c7bbe936be595a428e8748d8/1770139752423.jpeg)
 
 ---
 
 ### 🖥️ Windows EC2 – Desktop with Instance Metadata
 > Instance ID: `i-0b59acb46d882c8dc` | Public IP: `3.110.77.186` | Type: `t3.micro` | Zone: `ap-south-1a`
 
-![Windows EC2 desktop](screenshots/windows_desktop_instance_info.jpeg)
+![Windows EC2 desktop](https://github.com/lalkrishna24/AWS-EC2-Storage-Management/blob/fb420ff783be4936c7bbe936be595a428e8748d8/1770139756997.jpeg)
 
 ---
 
